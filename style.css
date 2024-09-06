@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(0,40,0);
+}
+body {
+    color: lightpink;
+}
+a:link {
+    color: lightgreen;
+}
+a:visited {
+    color: rgb(206, 156, 30)
+}
+a:hover {
+    color: orangered
+}
+a:active {
+    color: yellow
+}
+.img30 {
+    height: auto;
+    width: 30%;
+}
+.img90 {
+    height: auto;
+    width: 90%;
+}
+p-span {
+    display: block;
+}
+.Center {
+    display: block;
+    margin: auto;
+}
+.Center-text {
+    text-align: center;
+}
+body {
+    font-family: "Ubuntu"
+}
+.size30 {
+    size: 30px;
+}
+.size40 {
+    size: 40;
+}
