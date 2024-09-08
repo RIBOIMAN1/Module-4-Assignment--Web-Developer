@@ -16,6 +16,10 @@ a:hover {
 a:active {
     color: yellow
 }
+.img22_5 {
+    height: auto;
+    width: 22.5%;
+}
 .img30 {
     height: auto;
     width: 30%;
@@ -35,7 +39,7 @@ p-span {
     text-align: center;
 }
 body {
-    font-family: "Ubuntu"
+    font-family: "Ubuntu", "Noto Sans", "Liberation Sans"
 }
 .size30 {
     size: 30px;
