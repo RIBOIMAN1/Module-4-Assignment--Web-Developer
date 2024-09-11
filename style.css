@@ -24,13 +24,17 @@ a:active {
     height: auto;
     width: 30%;
 }
+.img40 {
+    height: auto;
+    width: 40%;
+}
 .img49_5 {
     height: auto;
     width: 49.5%;
 }
-.img90 {
+.vid60 {
     height: auto;
-    width: 90%;
+    width: 60%;
 }
 p-span {
     display: block;
